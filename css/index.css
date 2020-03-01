@@ -1,0 +1,37 @@
+html{
+    background-color: #FFE4C4;
+}
+#logo{
+    font-family: cursive;
+    font-size: 175%;
+}
+section{
+    display: block;
+}
+#home {
+    font-size: 30px;
+    height: 350px;
+    margin: 1px 1px 1px 1px;
+    padding: 30px;
+}
+html {
+    color: -internal-root-color;
+}
+#nav{
+    font-family: open Sans, arial;
+}
+#nav li{
+    float: bottom;
+    list-style: none;
+    background-color: #98FB98;
+    width: 300px;
+}
+#nav a{
+    text-decoration: none;
+    display: block;
+    padding: 35px 65px;
+    color:aliceblue;
+}
+#active a, #nav li:hover > a{
+    background: #696969;
+}
